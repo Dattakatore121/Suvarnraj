@@ -1,0 +1,21 @@
+.discount-page {
+  background: #f5f7fa;
+  min-height: 100vh;
+}
+
+.discount-header {
+  background-color: white;
+}
+
+.table th {
+  font-weight: 600;
+}
+
+.table-hover tbody tr:hover td {
+  background: #f1f5f9;
+}
+
+.modal-content {
+  border-radius: 1rem;
+  overflow: hidden;
+}

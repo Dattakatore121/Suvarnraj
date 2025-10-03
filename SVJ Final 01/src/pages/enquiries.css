@@ -1,0 +1,21 @@
+.enquiries-page {
+  background: #f5f7fa;
+  min-height: 100vh;
+}
+
+.enquiries-header {
+  background-color: white;
+}
+
+.enquiry-table tbody tr:hover {
+  background-color: #f1f5f9;
+  transition: 0.2s;
+}
+
+.enquiry-table th {
+  font-weight: 600;
+}
+
+.btn-sm {
+  border-radius: 0.35rem;
+}
